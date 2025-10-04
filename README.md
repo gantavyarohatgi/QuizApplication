@@ -19,7 +19,7 @@ AI QuizBot is a dynamic, intelligent quiz application for Android built with Jet
 
 | Start Screen | Question Screen | Score Screen | AI Feedback Screen |
 | :---: | :---: | :---: | :---: |
-|  |  |  |  |
+| ![Start Screen](https://github.com/gantavyarohatgi/QuizApplication/blob/main/images/1.jpeg?raw=true) | ![Loading Screen](https://github.com/gantavyarohatgi/QuizApplication/blob/main/images/2.jpeg?raw=true) | ![Question Screen](https://github.com/gantavyarohatgi/QuizApplication/blob/main/images/4.jpeg?raw=true) | ![Score Screen](https://github.com/gantavyarohatgi/QuizApplication/blob/main/images/5.jpeg?raw=true) | ![Answers](https://github.com/gantavyarohatgi/QuizApplication/blob/main/images/7.jpeg?raw=true) | ![AI Feedback Screen](https://github.com/gantavyarohatgi/QuizApplication/blob/main/images/8.jpeg?raw=true) |
 
 ---
 ## 🛠️ Tech Stack & Architecture
