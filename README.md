@@ -74,6 +74,7 @@ The goal was to create a quiz app that dynamically generates questions and feedb
 - Error handling is basic; could be improved with retries and user-facing error messages.
 - Dark mode is not fully polished.
 - Question topics/difficulties are fixed; future versions could allow custom topics.
+- The themes need to be improved to make the app more user friendly.
 
 ---
 
